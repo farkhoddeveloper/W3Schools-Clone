@@ -50,6 +50,12 @@ body{
             }
         }
 
-        
+        main{
+            width: 100%;
+            height: calc(100vh - 74px);
+            background-color: #000;
+            display: flex;
+            justify-content: space-between;
+        }
     }
 }

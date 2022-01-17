@@ -66,4 +66,16 @@ body .section-1 header .right button {
   border: green solid 1px;
   color: #FFFFFF;
 }
+
+body .section-1 main {
+  width: 100%;
+  height: calc(100vh - 74px);
+  background-color: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
 /*# sourceMappingURL=style.css.map */
