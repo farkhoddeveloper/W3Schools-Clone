@@ -39,6 +39,12 @@ body .section-1 header .left {
           align-items: center;
 }
 
+body .section-1 header .left nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 body .section-1 header .rigth {
   display: -webkit-box;
   display: -ms-flexbox;
