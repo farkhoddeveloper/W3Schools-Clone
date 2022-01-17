@@ -69,6 +69,11 @@ body .section-1 header .right {
   gap: 25px;
 }
 
+body .section-1 header .right a {
+  text-decoration: none;
+  color: #000000;
+}
+
 body .section-1 header .right button {
   width: 100px;
   height: 32px;
