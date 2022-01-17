@@ -43,6 +43,7 @@ body .section-1 header .left nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  gap: 61px;
 }
 
 body .section-1 header .right {
