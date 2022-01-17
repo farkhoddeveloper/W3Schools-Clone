@@ -67,7 +67,7 @@ body .section-1 header .right button {
 }
 
 body .section-1 header .right button :hover {
-  -webkit-box-shadow: greenyellow;
-          box-shadow: greenyellow;
+  -webkit-box-shadow: black;
+          box-shadow: black;
 }
 /*# sourceMappingURL=style.css.map */
