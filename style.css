@@ -48,6 +48,12 @@ body .section-1 header .left nav {
   gap: 61px;
 }
 
+body .section-1 header .left nav p {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+}
+
 body .section-1 header .right {
   display: -webkit-box;
   display: -ms-flexbox;
