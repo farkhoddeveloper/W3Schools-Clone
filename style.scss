@@ -34,6 +34,12 @@ body{
             .right{
                 display: flex;
                 align-items: center;
+
+                button{
+                    width: 90px;
+                    height: 32px;
+                    padding: 6px 25px;
+                }
             }
         }
     }
