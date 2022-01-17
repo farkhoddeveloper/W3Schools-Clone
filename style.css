@@ -74,6 +74,11 @@ body .section-1 header .right a {
   color: #000000;
 }
 
+body .section-1 header .right p {
+  font-size: 14px;
+  line-height: 17px;
+}
+
 body .section-1 header .right button {
   width: 100px;
   height: 32px;
