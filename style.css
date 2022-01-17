@@ -78,4 +78,18 @@ body .section-1 main {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body .section-1 main .left {
+  width: 50%;
+}
+
+body .section-1 main .left h1 {
+  font-size: 96px;
+  line-height: 123px;
+  color: #FFFFFF;
+}
+
+body .section-1 main .right {
+  width: 50%;
+}
 /*# sourceMappingURL=style.css.map */

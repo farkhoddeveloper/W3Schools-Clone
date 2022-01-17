@@ -56,6 +56,20 @@ body{
             background: #282A35;
             display: flex;
             justify-content: space-between;
+
+            .left{
+                width: 50%;
+
+                h1{
+                    font-size: 96px;
+                    line-height: 123px;
+                    color: #FFFFFF;
+                }
+            }
+
+            .right{
+                width: 50%;
+            }
         }
     }
 }
