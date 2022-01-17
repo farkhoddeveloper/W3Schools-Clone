@@ -65,4 +65,9 @@ body .section-1 header .right button {
   border-radius: 15px;
   border: green solid 1px;
 }
+
+body .section-1 header .right button :hover {
+  -webkit-box-shadow: greenyellow;
+          box-shadow: greenyellow;
+}
 /*# sourceMappingURL=style.css.map */
