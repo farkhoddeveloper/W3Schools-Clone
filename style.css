@@ -54,6 +54,10 @@ body .section-1 header .left nav p {
   line-height: 24px;
 }
 
+body .section-1 header .left nav a {
+  text-decoration: none;
+}
+
 body .section-1 header .right {
   display: -webkit-box;
   display: -ms-flexbox;
