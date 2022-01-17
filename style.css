@@ -70,7 +70,7 @@ body .section-1 header .right button {
 body .section-1 main {
   width: 100%;
   height: calc(100vh - 74px);
-  background-color: #000;
+  background: #282A35;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
