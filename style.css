@@ -109,7 +109,6 @@ body .section-1 main .left {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  text-align: center;
 }
 
 body .section-1 main .left h1 {
