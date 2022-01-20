@@ -103,18 +103,18 @@ body .section-1 main {
 
 body .section-1 main .left {
   width: 50%;
-}
-
-body .section-1 main .left h1 {
-  width: 40%;
-  font-size: 96px;
-  color: #FFFFFF;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+body .section-1 main .left h1 {
+  width: 40%;
+  font-size: 96px;
+  color: #FFFFFF;
 }
 
 body .section-1 main .right {
